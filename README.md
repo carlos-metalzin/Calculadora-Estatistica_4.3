@@ -26,8 +26,7 @@ Para baixar o programa procure o botão 'Code',clique e selecione 'Download ZIP'
 
 Assim você irá baixar um arquivo ZIP com uma pasta com o programa e outros arquivos, basta extrair.
 Nesta pasta você terá acesso ao programa e um arqvuivo .csv para testes. 
-
-( IMAGEM ) 
+ 
 
 ## Utilizando o Colab 
 
