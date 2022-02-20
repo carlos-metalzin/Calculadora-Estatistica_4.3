@@ -22,7 +22,7 @@ Em seu funcionamento, o programa recebe dados, de maneira manual ou pela leitura
 
 Para baixar o programa procure o botão 'Code',clique e selecione 'Download ZIP'.
 
-( IMAGEM )
+![image](https://user-images.githubusercontent.com/89401812/154864652-a03b661e-db47-43f0-b901-399a7ce4ba86.png)
 
 Assim você irá baixar um arquivo ZIP com uma pasta com o programa e outros arquivos, basta extrair.
 Nesta pasta você terá acesso ao programa e um arqvuivo .csv para testes. 
