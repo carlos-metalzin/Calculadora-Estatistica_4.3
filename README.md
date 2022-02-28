@@ -16,7 +16,8 @@ Este é um programa desenvolvido como Iniciação didática no Centro Universit�
 ## Resumo
 
 O projeto é recomendado para iniciantes na programação ou para aqueles que desejam o primeiro contato, pois provoca o usúario a ler o código e realizar alterações buscando os resultados desejados dentro da análise experimental.<br>
-Em seu funcionamento, o programa recebe dados de apenas uma dimensão, de maneira manual ou pela leitura de arquivo de dados, e retorna com um resumo estatístico. 
+Em seu funcionamento, o programa recebe dados de apenas uma dimensão, de maneira manual ou pela leitura de arquivo de dados, e retorna com um resumo estatístico. <br> 
+__Lembre-se os dados não são analisados levando em conta unidade de medida, atenção para adiciona-los no final caso esteja trabalhando com números dimensionais__
 
 ## Download do Programa
 
