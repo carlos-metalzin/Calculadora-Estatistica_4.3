@@ -63,8 +63,16 @@ Depois informe no código o nome do seu arqvuivo colocando a extensão. Ex: 'arq
 ![image](https://user-images.githubusercontent.com/89401812/154859171-0289904e-d176-48a4-8e78-409b9033e4b0.png)
 Caso ocorra algum erro, tente colocar o enderaço completo do arquivo. Ex: 'C:\Users\Desktop\Calculadora-Estatistica_4.3\arquivo.csv'.
 <br>
+
 Em caso de dúvidas entre em contato com a equipe de desenvolvimento.
   
+## Gerando PDF 
+
+Com o Colab você pode gerar arquivos PDF para melhor vizualização, podendo ser impresso ou utilizado na entrega de trabalhos. Para criar seu PDF utilize o comando Ctrl+P ou selecione 'arquivo' e depois 'imprimir', depois escolha se quer imprimir ou apenas gerar o arquivo e pronto! 
+
+![image](https://user-images.githubusercontent.com/89401812/155909083-c4daf0d2-b119-471b-b1d4-d9f36640618c.png)
+
+
 ## Contato
 
 Caso queira enviar sugestões ou reportar algum problema entre em contato em: 
